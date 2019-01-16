@@ -1,0 +1,603 @@
+[2019-01-16T11:40:37.939] [INFO] default - [ '2019-01-16T19:40:37.938Z', 'Starting Prerender' ]
+[2019-01-16T11:40:37.942] [INFO] default - [ '2019-01-16T19:40:37.942Z', 'Starting Chrome' ]
+[2019-01-16T11:40:37.958] [INFO] default - [ '2019-01-16T19:40:37.958Z',
+  'Prerender server accepting requests on port 3000' ]
+[2019-01-16T11:40:38.475] [INFO] default - [ '2019-01-16T19:40:38.475Z',
+  'Started Chrome: HeadlessChrome/71.0.3578.98' ]
+[2019-01-16T11:40:53.205] [INFO] default - [ '2019-01-16T19:40:53.205Z',
+  'getting',
+  'https://www.gamefly.com/' ]
+[2019-01-16T11:40:53.208] [INFO] default - [ '2019-01-16T19:40:53.208Z',
+  'disconnectBrowserIfBrowserShouldBeRestarted --> time passed since last restart 14733' ]
+[2019-01-16T11:40:53.544] [INFO] default - [ '2019-01-16T19:40:53.544Z', '+', 1, 'https://www.gamefly.com/' ]
+[2019-01-16T11:40:53.873] [INFO] default - [ '2019-01-16T19:40:53.873Z', '-', 0, 'https://www.gamefly.com/' ]
+[2019-01-16T11:40:53.883] [INFO] default - [ '2019-01-16T19:40:53.883Z',
+  '+',
+  1,
+  'https://gamefly.gameflycdn.com/styles.34e5ace74ea8f256492a.css' ]
+[2019-01-16T11:40:53.883] [INFO] default - [ '2019-01-16T19:40:53.883Z',
+  '+',
+  2,
+  'https://cdn.trackjs.com/releases/current/tracker.js' ]
+[2019-01-16T11:40:53.884] [INFO] default - [ '2019-01-16T19:40:53.884Z',
+  '+',
+  3,
+  'https://apis.google.com/js/platform.js' ]
+[2019-01-16T11:40:53.885] [INFO] default - [ '2019-01-16T19:40:53.885Z',
+  '+',
+  4,
+  'https://gamefly.gameflycdn.com/runtime.d29ca25929776be298d4.js' ]
+[2019-01-16T11:40:53.885] [INFO] default - [ '2019-01-16T19:40:53.885Z',
+  '+',
+  5,
+  'https://gamefly.gameflycdn.com/polyfills.bf3327ced233d3cc01d0.js' ]
+[2019-01-16T11:40:53.886] [INFO] default - [ '2019-01-16T19:40:53.886Z',
+  '+',
+  6,
+  'https://gamefly.gameflycdn.com/vendor.a4fa7e7c104f0218a442.js' ]
+[2019-01-16T11:40:53.886] [INFO] default - [ '2019-01-16T19:40:53.886Z',
+  '+',
+  7,
+  'https://gamefly.gameflycdn.com/main.a4cf448ee02098899b7b.js' ]
+[2019-01-16T11:40:53.931] [INFO] default - [ '2019-01-16T19:40:53.931Z',
+  '-',
+  6,
+  'https://gamefly.gameflycdn.com/styles.34e5ace74ea8f256492a.css' ]
+[2019-01-16T11:40:53.942] [INFO] default - [ '2019-01-16T19:40:53.942Z',
+  '+',
+  7,
+  'https://ajax.googleapis.com/ajax/libs/webfont/1.6.26/webfont.js' ]
+[2019-01-16T11:40:53.965] [INFO] default - [ '2019-01-16T19:40:53.965Z',
+  '+',
+  8,
+  'data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAANwAAACgCAMAAABQZPIJAAAC91BMVEUAAAATJisTJisTJisTJisTJisTJisTJisTJisTJisTJisTJisTJisTJisTJisTJisTJisTJisTJisAGzAIGBMSJisTJisAHS8PISITJisTJisMHRwTJisTJisTJitVfcBVRkwTJisTJisTJisTJisTJisTJisTJisTJisTJisTJisTJisTJisCIS0KIywTJisTJisTJisTJisTJisTJivhWA9VfL4TJisTJisXKzRVfL4TJisTJivWVhFVfL4TJisTJisRJStXf8NAYZDWVhFVfL7WVhFVfL4TJivWVhFVfL4TJisTJisTJitgi9gOJCxNcaxlOSBVfL7WVhFVfL4TJisRJCg6LicvS2ofKCnWVhHWVhETJitVfL4TJivWVhFVfL7WVhFVfL5VfL7WVhHaVxDGUhNVfL4SJSkTJisTJisTJivWVhHWVhFVfL4TJivWVhJRd7ZIbKIaMDzWVhHWVhFVfL7WVhFVfL4TJitVfL7WVhFVfL5VfL4TJitVfL7WVhHWVhFVfL7WVhFVfL7WVhHMUxItSWaZRxk4Vn1FMSRrOx99Px2RRRrWVhETJisTJivWVhHWVhHWVhFVfL5VfL5UfcFVfL7WVhETJivWVhETJivWVhFGaJ01UnckPFEnKig8LyVNMyNhOCGnShe5TxW9TxTWVhFVfL5VfL7WVhHWVhG0TRbTVRFPdLE6WoMiOUwZJioyLSetSxYzUHIxTm8mPlVyPR7WVhFVfL7WVhFVfL5VfL4fNkYrKyiDQRykSRgqRF8oQVkdM0F2Ph5VfL7WVhHWVhHWVhHWVhGHQhwtKyhZNyLWVhE8W4aLQxvoVQMTJitVfL7WVhEUJy0VJytUe7zVVhHTVRFVe70EEwr/YAsTJixkj98AHC8GFQ72XgwAIC5jjt5ag8r9YAsHIywRJCdfidRhjNpbhc0AGzHwXA1dhtDZVxDpWw5YgcZijdwOICAJGhfdVxDsWw5WfcEQJSvkWQ/6XwznWg8fUYQAIDJ3NQgMnAAaAAAA0XRSTlMA5KVSxDMwCZ7eToli8uLUHP1n/v6uev3+9qv+7+s/CwLolWpgIhDajXVxQjj+/vqRikgaDf77ziX96Lt+WFZWPBP+/Pv07u2alY6EKyn+/v3818+oXBUF/Pz14MnEwa01LykREAz80LWooZ2MfUktJv38/PHUy8q9s6+hnnJsaF9PPjwaFv38/Pv7+/v75+bGurWnloVdUUQsHRcJ/Pz8/Pz8/Pz8/MG0gHNi/v38/Pz8/Pz7+/v75N9vLyX8/Pz8+/v7+9zYhUk2/Pv7xoaDVFgS9NcAAA1JSURBVHjazJrpS1RhFMbfIAj6EqFgFDH1scARijES7IM5I0mrRZQRZStB2W7SQmX7SqtF+75He0H7vlAfunecuTNOllpTmuaYa1YfchjpILPd5y7vnd9/cHife55znnOZeky5e89lZVit1oys/D2FU5hi5l0csvOlLXtRtm3xrtmrpzPjyT2XLLYjJT9zZcFUBjFtzcXZO7fb25G+azUzlsIUMSTJWUv3Fk42sahMz0l9Nelluj0k2y8y45j8QoyIdeaY84PuhSnxUE7qnN2js+0RmfCGGUSmSAAlUllyGMKMwJQnEvJKLJwy732gLIDR0xh37qeIKO7y3389kh3FNo9x5r5VRHFWjKz7eOmLy46yiHN1azPw2io/D4z/M97SgFdnO8B4kifCNJY/KS5yfH/35QeuzNGMI3tFGGfJ4E9fPwgjErZ5XHaY2YwbkxXU9s3ZrUeRIDjKzOtLFVS3hvFiIt4ofcOvFhcJrTg+Hi+1xLAwV4ow7pJNxUIbcVv9foByl3FhqoJOOXxkj59FQgBvwulfCvxgHeNBJv5un6sXfmqrzS/MhzUtkp2IoTlsiohTcqv4g/AfR9wWjx0nh+nPGFyUtQvqulFxfmHeUDCoTGK6U6BAlJUD44sEotUPxjfX4NXtZ3qTr0CU4wIuQDi+n/T8sKOcZTqTq0SU8W2iJMwJpxQIE8gd+Pi32z8v08ORMC24MJcwXdmnQJQbSJTthPkFF2Yq05M8LURJwoypIWwQ3ilJlCGECVv5KkYY/nAhOiVZ+Sjcyhcz3RiEJwskyiDMfiuPnafLw+17YbAoacY81tIixcpXtw9fdG6GFiXNmFKsNMyJShadMKKk5Sc2vC4X3r6/PaBFJ7Qwr1dZpJgYU/LRh6PtOxjayl2xMGEWwJHQfH8kFJlE8ww4LnrNtGepiJFWcZREGV6Ym0vrQWHuZIRBcZ6zvDWnFKLS5M8xDY/5wAXcXZmWVBfh4WgKS0pvkIxdyfHkpJyWgXDQ3mpwmrJHJOTOXUIQGk1hy5imrE3GROmrprkrLJT0NYPCpKsP18sHWRyNJpDZ8b+LmOiMKtvi5BeX6EXNzqblKXmFCNFYcVteNyGzA3vKBaYdWdjD1Q6O/yoANCVsBIU5gf+SStFCFItTHzmsMmjXcZfcAkRJm50xm08B2E0CWxyEN/EM2FNeGzJ5pQ2ngRnoKcfBAXoS78mLBmaYpjh0gM7hf2x0f/ZRN4F6yrV6rKcM4XUlxruJ+p6SvY6XgePdRH1PmcPTwPFuEryUQ0bei6+BO2upmyjoKeCckqpp5oXPJuicAiXQZ7lGJ86SI9RNlPSUOx6JZ5iyXCTkbDrUTRTgNc+ocvHbyNdageIaa5/SwynrKSd+IbtP+gFuPuCsOEybjjJGJDyG8pQ53HzAV/2MchMMerq3NRaJ01q3D+omV4oF1cQ98rg4ucE5wAYqk7vSaUAxZV0vN0hcovV7iMfR9RtA9aX8jb77AB0a6fqtAm/i6VIXh93AlAHYgMKhUm0Utmia+t998cALh6IwxA7u6p4LuX3024JaHGXHmoF4fYlGuRAen+Pg8fp+/Q47ZAOaFEd2oO+AOdXK2wboZDfKI2EDJt5OkGyhm6AReOJwgeHMFEXw7qEe2g4AO1isUTvBtwEcfDvYr+OWmkY/CmlC4NeiBgvQUvC0EoiYBc0B/uDAE8yVYMSsNWXj6+WHRXfh6QQKhTTHEfdc/tMt0Sn0clc75ft3Us+eSYJMEkesr5L0icEyZRcn82ea3t37dB42tlOnscP69ZnVQYhG4N98fRYfU4qm/r2jz1zWjqF9OwrRMAOLnW26lhk6+ffTaDbQpW9/FoKDfQcIEQCcHD2RL9XKv5P+tXdmMS5FYQD+26pqtbUkM3TS1nQ6WtUR1ZZptFTFUnQQy/SBIJbY15DYl4QHL/adBxKJNbZ4IPHiQSQS5DzhicQWsT5IeDR1r/u755573a22zPc0mZnO7Xf/e875z3/+sng5yFIq+ogCE3qcVt0kvNfEZihcv68oBS7U1wGKODZblEJ36q3qY58VmkqxxtfvaB5UYIsSNtraU5aa/vkBpf131AUqSbL1tO3JJ5u3yGEZVmaJC+RBA/kQYYElWhOXurFqE6/hcolXLWgk1o2dhF19/+GRuUvdHYOJV00ENJOuIxK4E7vHph4iLzOWeAXioItgyFgSts2MnRwmXszCyWLQTQOh0FRO2WBi6vXk9aWe0sTLlwQDxCWLeqWcgqFTm4IZT70+3ZYGbk8EDJGewUjCvpqYgk1RefCxSpoxN4BhEpL8ucdFlfnzTOOnH1jxkiRefcEEwkQEHoyYUW0YqjtjbgRTyOvOny8YfyoxYzbXDe305s8zDVe98MSK+Uya/mTimZbxs7rD6gInaVxYBCZSpPLnax8GmnL8v1HfVsfpABOpjxIRaouY+81YwT8+p7c6w8BUmqj8+eTAgSas48vUBe7yU3FSGQOT2Uxtfe6pC90247udSo1ZJLcQTGcRXX/+8sjwvme+qsDtFCdezVAFpovmFDxJ1n+aNVvlHlW01QmkoAoUdot3rSM+PDLYj79Fxx61f0eoCi0+HUcH53XWK/Fwvz8GTjpRVmnK7KeuCWCfwvoyWE3grosCl4SqMYwuOBhaDGapCZy4uBCHKtIkLjhg6PQcIW/SGrj+TVBV7DjuVH5iZKmBIffk3cpX2KMdyECV6b1bXCsyMOhuaqsKNaeh6jima6sV7SrrWeUwcLgR+C0sJjyVxvxHule6w5oC1x1+E24M3YtHurc95zQEztsCv42MU0Po7urdy+EBeAP8VhLqR91+je0ZGDi+Dmtpgt+M3ak2dPd1bQkwcDn4A9TiqNO1MZj068C1jbiaVvgjFBaqCt2uE1rlcKrMluCP0ZJVEbpp+sbcm4k9FxyFP0qp5uXFz/papQ4qy41/0Ap/nMLDZ/r+qZReSunXoLG94K9g3pIRCm435sqWm2VH3eBNf4lahRPnb8iOuB1a2+0HrV8GfxlHZo7Qcep/a8ogKmYbh/5FQUNODNlAxe/RzBXwK3oNPbD25uhBg0YOnn927KHZ8BezYuuSfWt2rR4xYtS0M2OGzAWV9Nq+fU49/BPUzz2242/4T8Haaaeddtpppx3TSWcyvZFMxzbsy+upVGC5/fv3HSCiJRkMxu3HgU3KHg8GXb2xgmx32VwUNncEL5Kxd6Q4Gl/e9rK2bzelgKI8rO2vJzvSMvHKd1uAI9/BR6T4CiBiKuHoAyKspEI3Z507DWJawzVe8p3OP1Q7+QiDDsDTtSFEGNjATiokgCLiwZfTR19WqFDA42clOYeF8DRJ5TjB4nFAei8kHCg3lbA5irVlFnXAy/XRLFewEDaeiEwfawdaDslJewtRzk3YjAOOvjI3uatGuSaUW0BUyQ0jyGZaDmkucGFzEolcC2HjLON7YhED3XI2Ikf/43KtE74ULYd4SgAQJEQqt4iwsQGAwl1uBv1y/MjYY62hyFrTwIOPTMiHIRfLoXmJc6Pl0n7uLywudvqZdTngyJDvRBtEP1+0rsmAHDefuUGZrpxUIMXfXhct56zpL9zquEUIY11IkIuTCv6UcptlM0hQkCv4lOW+u3eBX1DHN1X+CIqznpKbAY6EMGviTAFRQS6Ps7lCl2V3TXKOAD/jiIgJV/Jwb61CPOyyIXkbv1rjwJyOk+Y4lBNm0JJ4kepSCZJTkGskFdYl3T/o25Ehl7DbbI3uCuGpZTk5ZAZ3pXzSJpAcR4SHEZ9ayTIk3JCyE/tpIgHu645SOYhExSszJaf8iZ/uhCKQ/rVcTH46TInlYJGM3AChsx7fZJYhB60hjFvZsJxDSQ4zCzYJoOQKfokc/mWy2yGasrsz5CAoyjqqLwcuwqZLmZaDsEQOH2wyFThK5Dv+VoYcjMN+7mrLKaV00QJQcuiBcnjVdXR7wWKJHLYn7wHjcn7JmBsADDJZ6XjjpjucLTkytZvD4ca+PpSDlId8JwMQrmtoY1wfwpFkyIE9Fw5vri3JyWUba3+QGMaQy8YG8DTkyopySG93rnZzZ26Z7F6bi7kc8LOcE0TUe1EOrMJtDtLPtUQOoeSE5aQILFDOrbTOWUGeVh/jN6KMp9kRQDkXZniSrVFOi5z9R27j4EmXGXLdZTKkbvisKP2Gldl95Hd6BZzebrwctvjHmTuSklo5/LKb/weeUOWapE6NHHTgXhxt7vIzvpis3PJ8C25lGHTF2a/I3XmaBVrkcoRNo6IcqjNpkZGLZQcssgEUleSO8rNyBCDcZWGdwGI+oI0a5Oq7ECahtAo5HBNi1rHlgsXO6zpXrppVkMsKeVq9uFzUUUiRVMtBxkOYJNTIpUKEyVSmnLtxAIm5sIDAkuuLqRYiWq2t0InPqRHxvIty0NqBMEliAhEGOSIzCAvPcV6OL7dwDOuUyzUkuFuaaLaELBQeiwOixGux+APLQYqjub/F4vV3i8RI2y+TGmCzp1vbT3G5jlu7SC7kJQu4VGO3ZTcfCDZB5ovH8ZH1eiwWbLiLFYMLbfA/8w3iuSmHiju7fwAAAABJRU5ErkJggg==' ]
+[2019-01-16T11:40:53.972] [INFO] default - [ '2019-01-16T19:40:53.972Z',
+  '-',
+  7,
+  'data:image/png;base64,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' ]
+[2019-01-16T11:40:53.978] [INFO] default - [ '2019-01-16T19:40:53.978Z',
+  '-',
+  6,
+  'https://gamefly.gameflycdn.com/polyfills.bf3327ced233d3cc01d0.js' ]
+[2019-01-16T11:40:53.979] [INFO] default - [ '2019-01-16T19:40:53.979Z',
+  '-',
+  5,
+  'https://gamefly.gameflycdn.com/main.a4cf448ee02098899b7b.js' ]
+[2019-01-16T11:40:53.980] [INFO] default - [ '2019-01-16T19:40:53.980Z',
+  '-',
+  4,
+  'https://gamefly.gameflycdn.com/vendor.a4fa7e7c104f0218a442.js' ]
+[2019-01-16T11:40:54.018] [INFO] default - [ '2019-01-16T19:40:54.018Z',
+  '-',
+  3,
+  'https://gamefly.gameflycdn.com/runtime.d29ca25929776be298d4.js' ]
+[2019-01-16T11:40:54.063] [INFO] default - [ '2019-01-16T19:40:54.063Z',
+  '-',
+  2,
+  'https://cdn.trackjs.com/releases/current/tracker.js' ]
+[2019-01-16T11:40:54.133] [INFO] default - [ '2019-01-16T19:40:54.133Z',
+  '+',
+  3,
+  'https://www.google-analytics.com/analytics.js' ]
+[2019-01-16T11:40:54.134] [INFO] default - [ '2019-01-16T19:40:54.134Z',
+  '+',
+  4,
+  'https://www.googletagmanager.com/gtm.js?id=GTM-PQ8KZ86' ]
+[2019-01-16T11:40:54.135] [INFO] default - [ '2019-01-16T19:40:54.135Z',
+  '-',
+  3,
+  'https://apis.google.com/js/platform.js' ]
+[2019-01-16T11:40:54.137] [INFO] default - [ '2019-01-16T19:40:54.137Z',
+  '-',
+  2,
+  'https://ajax.googleapis.com/ajax/libs/webfont/1.6.26/webfont.js' ]
+[2019-01-16T11:40:54.155] [INFO] default - [ '2019-01-16T19:40:54.155Z',
+  '+',
+  3,
+  'https://fonts.googleapis.com/css?family=Source+Sans+Pro%7CMaterial+Icons' ]
+[2019-01-16T11:40:54.172] [INFO] default - [ '2019-01-16T19:40:54.172Z',
+  '-',
+  2,
+  'https://www.google-analytics.com/analytics.js' ]
+[2019-01-16T11:40:54.338] [INFO] default - [ '2019-01-16T19:40:54.338Z',
+  '+',
+  3,
+  'https://www.gamefly.com/assets/i18n/en.json' ]
+[2019-01-16T11:40:54.339] [INFO] default - [ '2019-01-16T19:40:54.339Z',
+  '+',
+  4,
+  'https://api.gamefly.com/api/Initialize/Get' ]
+[2019-01-16T11:40:54.341] [INFO] default - [ '2019-01-16T19:40:54.341Z',
+  '-',
+  3,
+  'https://www.googletagmanager.com/gtm.js?id=GTM-PQ8KZ86' ]
+[2019-01-16T11:40:54.342] [INFO] default - [ '2019-01-16T19:40:54.342Z',
+  '-',
+  2,
+  'https://fonts.googleapis.com/css?family=Source+Sans+Pro%7CMaterial+Icons' ]
+[2019-01-16T11:40:54.362] [INFO] default - [ '2019-01-16T19:40:54.362Z',
+  '+',
+  3,
+  'https://fonts.gstatic.com/s/sourcesanspro/v11/6xK3dSBYKcSV-LCoeQqfX1RYOo3qOK7g.ttf' ]
+[2019-01-16T11:40:54.363] [INFO] default - [ '2019-01-16T19:40:54.363Z',
+  '+',
+  4,
+  'https://www.google-analytics.com/gtm/js?id=GTM-TSX88Q8&cid=34112195.1547667654' ]
+[2019-01-16T11:40:54.369] [INFO] default - [ '2019-01-16T19:40:54.369Z',
+  '+',
+  5,
+  'https://fonts.gstatic.com/s/materialicons/v42/flUhRq6tzZclQEJ-Vdg-IuiaDsNZ.ttf' ]
+[2019-01-16T11:40:54.384] [INFO] default - [ '2019-01-16T19:40:54.384Z',
+  '+',
+  6,
+  'https://connect.facebook.net/en_US/fbevents.js' ]
+[2019-01-16T11:40:54.411] [INFO] default - [ '2019-01-16T19:40:54.411Z',
+  '-',
+  5,
+  'https://www.gamefly.com/assets/i18n/en.json' ]
+[2019-01-16T11:40:54.412] [INFO] default - [ '2019-01-16T19:40:54.412Z',
+  '-',
+  4,
+  'https://www.google-analytics.com/gtm/js?id=GTM-TSX88Q8&cid=34112195.1547667654' ]
+[2019-01-16T11:40:54.428] [INFO] default - [ '2019-01-16T19:40:54.428Z',
+  '-',
+  3,
+  'https://fonts.gstatic.com/s/sourcesanspro/v11/6xK3dSBYKcSV-LCoeQqfX1RYOo3qOK7g.ttf' ]
+[2019-01-16T11:40:54.433] [INFO] default - [ '2019-01-16T19:40:54.433Z',
+  '-',
+  2,
+  'https://fonts.gstatic.com/s/materialicons/v42/flUhRq6tzZclQEJ-Vdg-IuiaDsNZ.ttf' ]
+[2019-01-16T11:40:54.458] [INFO] default - [ '2019-01-16T19:40:54.458Z',
+  '-',
+  1,
+  'https://connect.facebook.net/en_US/fbevents.js' ]
+[2019-01-16T11:40:54.510] [INFO] default - [ '2019-01-16T19:40:54.510Z',
+  '+',
+  2,
+  'https://connect.facebook.net/signals/config/125585071118121?v=2.8.37&r=stable' ]
+[2019-01-16T11:40:54.536] [INFO] default - [ '2019-01-16T19:40:54.536Z',
+  '-',
+  1,
+  'https://connect.facebook.net/signals/config/125585071118121?v=2.8.37&r=stable' ]
+[2019-01-16T11:40:54.638] [INFO] default - [ '2019-01-16T19:40:54.638Z',
+  '+',
+  2,
+  'https://www.facebook.com/tr/?id=125585071118121&ev=PageView&dl=https%3A%2F%2Fwww.gamefly.com%2F&rl=&if=false&ts=1547667654623&sw=1440&sh=718&v=2.8.37&r=stable&ec=0&o=157&fbp=fb.1.1547667654619.2006551425&it=1547667654506&coo=false' ]
+[2019-01-16T11:40:54.643] [INFO] default - [ '2019-01-16T19:40:54.643Z',
+  '-',
+  1,
+  'https://api.gamefly.com/api/Initialize/Get' ]
+[2019-01-16T11:40:54.647] [INFO] default - [ '2019-01-16T19:40:54.647Z',
+  '+',
+  2,
+  'https://api.gamefly.com/api/Initialize/Get' ]
+[2019-01-16T11:40:54.700] [INFO] default - [ '2019-01-16T19:40:54.700Z',
+  '-',
+  1,
+  'https://api.gamefly.com/api/Initialize/Get' ]
+[2019-01-16T11:40:54.814] [INFO] default - [ '2019-01-16T19:40:54.814Z',
+  '+',
+  2,
+  'https://www.google-analytics.com/analytics.js' ]
+[2019-01-16T11:40:54.816] [INFO] default - [ '2019-01-16T19:40:54.815Z',
+  '+',
+  3,
+  'https://gamefly.gameflycdn.com/10.4e5a8da418e33fdb9d43.js' ]
+[2019-01-16T11:40:54.817] [INFO] default - [ '2019-01-16T19:40:54.817Z',
+  '+',
+  4,
+  'https://gamefly.gameflycdn.com/13.cc11fee8e408e9d363c3.js' ]
+[2019-01-16T11:40:54.818] [INFO] default - [ '2019-01-16T19:40:54.818Z',
+  '+',
+  5,
+  'https://seal-sanjose.bbb.org/logo/ruhzbus/iframe/gamefly-13183849.html?newwindow=yes' ]
+[2019-01-16T11:40:54.859] [INFO] default - [ '2019-01-16T19:40:54.858Z',
+  '+',
+  6,
+  'data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4NCjwhLS0gR2VuZXJhdG9yOiBBZG9iZSBJbGx1c3RyYXRvciAyMi4xLjAsIFNWRyBFeHBvcnQgUGx1Zy1JbiAuIFNWRyBWZXJzaW9uOiA2LjAwIEJ1aWxkIDApICAtLT4NCjxzdmcgdmVyc2lvbj0iMS4xIiBpZD0iTGF5ZXJfMSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgeD0iMHB4IiB5PSIwcHgiDQoJIHZpZXdCb3g9IjAgMCA0MCA0MCIgZW5hYmxlLWJhY2tncm91bmQ9Im5ldyAwIDAgNDAgNDAiIHhtbDpzcGFjZT0icHJlc2VydmUiPg0KPGc+DQoJPHBhdGggZmlsbD0iIzAwQUNFRCIgZD0iTTI5LjEsMTQuNGMtMC43LDAuMy0xLjQsMC41LTIuMiwwLjZjMC44LTAuNSwxLjMtMS4yLDEuNy0yLjFjLTAuOCwwLjQtMS41LDAuNy0yLjMsMC45DQoJCWMtMC43LTAuOC0xLjctMS4yLTIuOC0xLjJjLTIuMSwwLTMuOCwxLjctMy44LDMuOGMwLDAuMiwwLDAuNiwwLjEsMC44Yy0zLjEtMC4yLTUuOC0xLjctNy43LTMuOWMtMC4zLDAuNi0wLjUsMS4yLTAuNSwxLjgNCgkJYzAsMS4zLDAuNywyLjQsMS43LDMuMWMtMC42LDAtMS4yLTAuMi0xLjctMC41YzAsMCwwLDAsMCwwLjFjMCwxLjgsMS4zLDMuMywzLDMuN2MtMC4zLDAuMS0wLjcsMC4yLTEsMC4yYy0wLjMsMC0wLjUsMC0wLjctMC4xDQoJCWMwLjUsMS41LDEuOCwyLjYsMy41LDIuNmMtMS4yLDEtMi44LDEuNi00LjYsMS42Yy0wLjMsMC0wLjYsMC0wLjktMC4xYzEuNywxLjEsMy42LDEuNyw1LjcsMS43YzYuOCwwLDEwLjYtNS43LDEwLjYtMTAuNg0KCQljMC0wLjIsMC0wLjMsMC0wLjVDMjcuOSwxNS44LDI4LjYsMTUuMiwyOS4xLDE0LjR6Ii8+DQoJPHBhdGggZmlsbD0iIzAwQUNFRCIgZD0iTTIwLDQwQzksNDAsMCwzMSwwLDIwUzksMCwyMCwwczIwLDksMjAsMjBTMzEsNDAsMjAsNDB6IE0yMCwyLjNjLTkuOCwwLTE3LjgsOC0xNy44LDE3LjhzOCwxNy44LDE3LjgsMTcuOA0KCQlzMTcuOC04LDE3LjgtMTcuOFMyOS44LDIuMywyMCwyLjN6Ii8+DQo8L2c+DQo8L3N2Zz4NCg==' ]
+[2019-01-16T11:40:54.862] [INFO] default - [ '2019-01-16T19:40:54.862Z',
+  '-',
+  5,
+  'data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4NCjwhLS0gR2VuZXJhdG9yOiBBZG9iZSBJbGx1c3RyYXRvciAyMi4xLjAsIFNWRyBFeHBvcnQgUGx1Zy1JbiAuIFNWRyBWZXJzaW9uOiA2LjAwIEJ1aWxkIDApICAtLT4NCjxzdmcgdmVyc2lvbj0iMS4xIiBpZD0iTGF5ZXJfMSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgeD0iMHB4IiB5PSIwcHgiDQoJIHZpZXdCb3g9IjAgMCA0MCA0MCIgZW5hYmxlLWJhY2tncm91bmQ9Im5ldyAwIDAgNDAgNDAiIHhtbDpzcGFjZT0icHJlc2VydmUiPg0KPGc+DQoJPHBhdGggZmlsbD0iIzAwQUNFRCIgZD0iTTI5LjEsMTQuNGMtMC43LDAuMy0xLjQsMC41LTIuMiwwLjZjMC44LTAuNSwxLjMtMS4yLDEuNy0yLjFjLTAuOCwwLjQtMS41LDAuNy0yLjMsMC45DQoJCWMtMC43LTAuOC0xLjctMS4yLTIuOC0xLjJjLTIuMSwwLTMuOCwxLjctMy44LDMuOGMwLDAuMiwwLDAuNiwwLjEsMC44Yy0zLjEtMC4yLTUuOC0xLjctNy43LTMuOWMtMC4zLDAuNi0wLjUsMS4yLTAuNSwxLjgNCgkJYzAsMS4zLDAuNywyLjQsMS43LDMuMWMtMC42LDAtMS4yLTAuMi0xLjctMC41YzAsMCwwLDAsMCwwLjFjMCwxLjgsMS4zLDMuMywzLDMuN2MtMC4zLDAuMS0wLjcsMC4yLTEsMC4yYy0wLjMsMC0wLjUsMC0wLjctMC4xDQoJCWMwLjUsMS41LDEuOCwyLjYsMy41LDIuNmMtMS4yLDEtMi44LDEuNi00LjYsMS42Yy0wLjMsMC0wLjYsMC0wLjktMC4xYzEuNywxLjEsMy42LDEuNyw1LjcsMS43YzYuOCwwLDEwLjYtNS43LDEwLjYtMTAuNg0KCQljMC0wLjIsMC0wLjMsMC0wLjVDMjcuOSwxNS44LDI4LjYsMTUuMiwyOS4xLDE0LjR6Ii8+DQoJPHBhdGggZmlsbD0iIzAwQUNFRCIgZD0iTTIwLDQwQzksNDAsMCwzMSwwLDIwUzksMCwyMCwwczIwLDksMjAsMjBTMzEsNDAsMjAsNDB6IE0yMCwyLjNjLTkuOCwwLTE3LjgsOC0xNy44LDE3LjhzOCwxNy44LDE3LjgsMTcuOA0KCQlzMTcuOC04LDE3LjgtMTcuOFMyOS44LDIuMywyMCwyLjN6Ii8+DQo8L2c+DQo8L3N2Zz4NCg==' ]
+[2019-01-16T11:40:54.866] [INFO] default - [ '2019-01-16T19:40:54.866Z',
+  '+',
+  6,
+  'data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4NCjwhLS0gR2VuZXJhdG9yOiBBZG9iZSBJbGx1c3RyYXRvciAyMi4xLjAsIFNWRyBFeHBvcnQgUGx1Zy1JbiAuIFNWRyBWZXJzaW9uOiA2LjAwIEJ1aWxkIDApICAtLT4NCjxzdmcgdmVyc2lvbj0iMS4xIiBpZD0iTGF5ZXJfMSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgeD0iMHB4IiB5PSIwcHgiDQoJIHZpZXdCb3g9IjAgMCA0MCA0MCIgZW5hYmxlLWJhY2tncm91bmQ9Im5ldyAwIDAgNDAgNDAiIHhtbDpzcGFjZT0icHJlc2VydmUiPg0KPGc+DQoJPHBhdGggZmlsbD0iIzYwOEJFQSIgZD0iTTE3LjksMjMuOWMwLTEuMywwLTIuNSwwLTMuOGMwLTAuMy0wLjEtMC4zLTAuMi0wLjNjLTAuNCwwLTAuOCwwLTEuMiwwYy0wLjIsMC0wLjIsMC0wLjItMC4yDQoJCWMwLTAuOCwwLTEuNiwwLTIuM2MwLTAuMiwwLjEtMC4yLDAuMi0wLjJjMC40LDAsMC44LDAsMS4yLDBjMC4yLDAsMC4yLTAuMSwwLjItMC4yYzAtMC42LDAtMS4yLDAtMS44YzAtMC44LDAuMy0xLjQsMC43LTINCgkJYzAuNi0wLjcsMS4zLTEuMSwyLjItMS4xYzAuOSwwLDEuOCwwLDIuOCwwYzAuMiwwLDAuMiwwLjEsMC4yLDAuMmMwLDAuOCwwLDEuNiwwLDIuM2MwLDAuMi0wLjEsMC4yLTAuMiwwLjJjLTAuNCwwLTAuOSwwLTEuMywwDQoJCWMtMC42LDAtMC45LDAuMy0xLDAuOWMwLDAuNSwwLDAuOSwwLDEuNGMwLDAuMiwwLjEsMC4yLDAuMiwwLjJjMC43LDAsMS4zLDAsMiwwYzAuMiwwLDAuMywwLjEsMC4zLDAuM2MtMC4xLDAuOC0wLjIsMS42LTAuMywyLjMNCgkJYzAsMC4yLTAuMSwwLjMtMC4zLDAuMmMtMC41LDAtMS4xLDAtMS42LDBjLTAuNCwwLTAuMy0wLjEtMC4zLDAuM2MwLDIuNCwwLDQuOCwwLDcuM2MwLDAuMi0wLjEsMC4zLTAuMywwLjNjLTAuOSwwLTEuOCwwLTIuOCwwDQoJCWMtMC4zLDAtMC4zLTAuMS0wLjMtMC4zQzE3LjksMjYuNCwxNy45LDI1LjIsMTcuOSwyMy45eiIvPg0KCTxwYXRoIGZpbGw9IiM2MDhCRUEiIGQ9Ik0yMCw0MEM5LDQwLDAsMzEsMCwyMFM5LDAsMjAsMHMyMCw5LDIwLDIwUzMxLDQwLDIwLDQweiBNMjAsMi4zYy05LjgsMC0xNy44LDgtMTcuOCwxNy44czgsMTcuOCwxNy44LDE3LjgNCgkJUzM3LjgsMjkuOCwzNy44LDIwUzI5LjgsMi4zLDIwLDIuM3oiLz4NCjwvZz4NCjwvc3ZnPg0K' ]
+[2019-01-16T11:40:54.868] [INFO] default - [ '2019-01-16T19:40:54.868Z',
+  '-',
+  5,
+  'data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4NCjwhLS0gR2VuZXJhdG9yOiBBZG9iZSBJbGx1c3RyYXRvciAyMi4xLjAsIFNWRyBFeHBvcnQgUGx1Zy1JbiAuIFNWRyBWZXJzaW9uOiA2LjAwIEJ1aWxkIDApICAtLT4NCjxzdmcgdmVyc2lvbj0iMS4xIiBpZD0iTGF5ZXJfMSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgeD0iMHB4IiB5PSIwcHgiDQoJIHZpZXdCb3g9IjAgMCA0MCA0MCIgZW5hYmxlLWJhY2tncm91bmQ9Im5ldyAwIDAgNDAgNDAiIHhtbDpzcGFjZT0icHJlc2VydmUiPg0KPGc+DQoJPHBhdGggZmlsbD0iIzYwOEJFQSIgZD0iTTE3LjksMjMuOWMwLTEuMywwLTIuNSwwLTMuOGMwLTAuMy0wLjEtMC4zLTAuMi0wLjNjLTAuNCwwLTAuOCwwLTEuMiwwYy0wLjIsMC0wLjIsMC0wLjItMC4yDQoJCWMwLTAuOCwwLTEuNiwwLTIuM2MwLTAuMiwwLjEtMC4yLDAuMi0wLjJjMC40LDAsMC44LDAsMS4yLDBjMC4yLDAsMC4yLTAuMSwwLjItMC4yYzAtMC42LDAtMS4yLDAtMS44YzAtMC44LDAuMy0xLjQsMC43LTINCgkJYzAuNi0wLjcsMS4zLTEuMSwyLjItMS4xYzAuOSwwLDEuOCwwLDIuOCwwYzAuMiwwLDAuMiwwLjEsMC4yLDAuMmMwLDAuOCwwLDEuNiwwLDIuM2MwLDAuMi0wLjEsMC4yLTAuMiwwLjJjLTAuNCwwLTAuOSwwLTEuMywwDQoJCWMtMC42LDAtMC45LDAuMy0xLDAuOWMwLDAuNSwwLDAuOSwwLDEuNGMwLDAuMiwwLjEsMC4yLDAuMiwwLjJjMC43LDAsMS4zLDAsMiwwYzAuMiwwLDAuMywwLjEsMC4zLDAuM2MtMC4xLDAuOC0wLjIsMS42LTAuMywyLjMNCgkJYzAsMC4yLTAuMSwwLjMtMC4zLDAuMmMtMC41LDAtMS4xLDAtMS42LDBjLTAuNCwwLTAuMy0wLjEtMC4zLDAuM2MwLDIuNCwwLDQuOCwwLDcuM2MwLDAuMi0wLjEsMC4zLTAuMywwLjNjLTAuOSwwLTEuOCwwLTIuOCwwDQoJCWMtMC4zLDAtMC4zLTAuMS0wLjMtMC4zQzE3LjksMjYuNCwxNy45LDI1LjIsMTcuOSwyMy45eiIvPg0KCTxwYXRoIGZpbGw9IiM2MDhCRUEiIGQ9Ik0yMCw0MEM5LDQwLDAsMzEsMCwyMFM5LDAsMjAsMHMyMCw5LDIwLDIwUzMxLDQwLDIwLDQweiBNMjAsMi4zYy05LjgsMC0xNy44LDgtMTcuOCwxNy44czgsMTcuOCwxNy44LDE3LjgNCgkJUzM3LjgsMjkuOCwzNy44LDIwUzI5LjgsMi4zLDIwLDIuM3oiLz4NCjwvZz4NCjwvc3ZnPg0K' ]
+[2019-01-16T11:40:54.871] [INFO] default - [ '2019-01-16T19:40:54.871Z',
+  '+',
+  6,
+  'data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4NCjwhLS0gR2VuZXJhdG9yOiBBZG9iZSBJbGx1c3RyYXRvciAyMi4xLjAsIFNWRyBFeHBvcnQgUGx1Zy1JbiAuIFNWRyBWZXJzaW9uOiA2LjAwIEJ1aWxkIDApICAtLT4NCjxzdmcgdmVyc2lvbj0iMS4xIiBpZD0iTGF5ZXJfMSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgeD0iMHB4IiB5PSIwcHgiDQoJIHZpZXdCb3g9IjAgMCA0MCA0MCIgZW5hYmxlLWJhY2tncm91bmQ9Im5ldyAwIDAgNDAgNDAiIHhtbDpzcGFjZT0icHJlc2VydmUiPg0KPGc+DQoJPGc+DQoJCTxwYXRoIGZpbGw9IiNDMjQ5QkUiIGQ9Ik0yMCwyMi45Yy0xLjYsMC0yLjktMS4zLTIuOS0yLjlzMS4zLTIuOSwyLjktMi45czIuOSwxLjMsMi45LDIuOVMyMS42LDIyLjksMjAsMjIuOXoiLz4NCgkJPGNpcmNsZSBmaWxsPSIjQzI0OUJFIiBjeD0iMjAiIGN5PSIyMCIgcj0iMi45Ii8+DQoJCTxwYXRoIGZpbGw9IiNDMjQ5QkUiIGQ9Ik0yOC43LDE2LjRjLTAuMS0wLjktMC4yLTEuNi0wLjQtMi4xYy0wLjMtMC42LTAuNS0xLjEtMS0xLjVjLTAuNS0wLjUtMS0wLjgtMS41LTENCgkJCWMtMC42LTAuMy0xLjItMC4zLTIuMS0wLjRjLTAuOS0wLjEtMS4zLTAuMS0zLjYtMC4xcy0yLjcsMC0zLjYsMC4xYy0wLjksMC4xLTEuNiwwLjItMi4xLDAuNGMtMC42LDAuMy0xLjEsMC41LTEuNSwxDQoJCQljLTAuNSwwLjUtMC43LDEtMSwxLjVjLTAuMywwLjYtMC4zLDEuMi0wLjQsMi4xYy0wLjEsMC45LTAuMSwxLjMtMC4xLDMuNnMwLDIuNywwLjEsMy42YzAuMSwwLjksMC4yLDEuNiwwLjQsMi4xDQoJCQljMC4zLDAuNiwwLjUsMS4xLDEsMS41YzAuNSwwLjQsMSwwLjgsMS41LDFjMC42LDAuMywxLjIsMC4zLDIuMSwwLjRjMC45LDAuMSwxLjMsMC4xLDMuNiwwLjFzMi43LDAsMy42LTAuMQ0KCQkJYzAuOS0wLjEsMS42LTAuMiwyLjEtMC40YzAuNi0wLjMsMS4xLTAuNSwxLjUtMWMwLjUtMC41LDAuOC0xLDEtMS41YzAuMi0wLjYsMC4zLTEuMiwwLjQtMi4xYzAuMS0wLjksMC4xLTEuMywwLjEtMy42DQoJCQlTMjguNywxNy4zLDI4LjcsMTYuNHogTTIwLDI0LjRjLTIuNSwwLTQuNC0yLTQuNC00LjRzMi00LjQsNC40LTQuNHM0LjQsMiw0LjQsNC40UzIyLjUsMjQuNCwyMCwyNC40eiBNMjQuNywxNi40DQoJCQljLTAuNiwwLTEtMC41LTEtMWMwLTAuNSwwLjUtMSwxLTFjMC41LDAsMSwwLjUsMSwxQzI1LjcsMTUuOSwyNS4yLDE2LjQsMjQuNywxNi40eiIvPg0KCTwvZz4NCgk8cGF0aCBmaWxsPSIjQzI0OUJFIiBkPSJNMjAsNDBDOSw0MCwwLDMxLDAsMjBTOSwwLDIwLDBzMjAsOSwyMCwyMFMzMSw0MCwyMCw0MHogTTIwLDIuM2MtOS44LDAtMTcuOCw4LTE3LjgsMTcuOHM4LDE3LjgsMTcuOCwxNy44DQoJCVMzNy44LDI5LjgsMzcuOCwyMFMyOS44LDIuMywyMCwyLjN6Ii8+DQo8L2c+DQo8L3N2Zz4NCg==' ]
+[2019-01-16T11:40:54.873] [INFO] default - [ '2019-01-16T19:40:54.873Z',
+  '-',
+  5,
+  'data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4NCjwhLS0gR2VuZXJhdG9yOiBBZG9iZSBJbGx1c3RyYXRvciAyMi4xLjAsIFNWRyBFeHBvcnQgUGx1Zy1JbiAuIFNWRyBWZXJzaW9uOiA2LjAwIEJ1aWxkIDApICAtLT4NCjxzdmcgdmVyc2lvbj0iMS4xIiBpZD0iTGF5ZXJfMSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgeD0iMHB4IiB5PSIwcHgiDQoJIHZpZXdCb3g9IjAgMCA0MCA0MCIgZW5hYmxlLWJhY2tncm91bmQ9Im5ldyAwIDAgNDAgNDAiIHhtbDpzcGFjZT0icHJlc2VydmUiPg0KPGc+DQoJPGc+DQoJCTxwYXRoIGZpbGw9IiNDMjQ5QkUiIGQ9Ik0yMCwyMi45Yy0xLjYsMC0yLjktMS4zLTIuOS0yLjlzMS4zLTIuOSwyLjktMi45czIuOSwxLjMsMi45LDIuOVMyMS42LDIyLjksMjAsMjIuOXoiLz4NCgkJPGNpcmNsZSBmaWxsPSIjQzI0OUJFIiBjeD0iMjAiIGN5PSIyMCIgcj0iMi45Ii8+DQoJCTxwYXRoIGZpbGw9IiNDMjQ5QkUiIGQ9Ik0yOC43LDE2LjRjLTAuMS0wLjktMC4yLTEuNi0wLjQtMi4xYy0wLjMtMC42LTAuNS0xLjEtMS0xLjVjLTAuNS0wLjUtMS0wLjgtMS41LTENCgkJCWMtMC42LTAuMy0xLjItMC4zLTIuMS0wLjRjLTAuOS0wLjEtMS4zLTAuMS0zLjYtMC4xcy0yLjcsMC0zLjYsMC4xYy0wLjksMC4xLTEuNiwwLjItMi4xLDAuNGMtMC42LDAuMy0xLjEsMC41LTEuNSwxDQoJCQljLTAuNSwwLjUtMC43LDEtMSwxLjVjLTAuMywwLjYtMC4zLDEuMi0wLjQsMi4xYy0wLjEsMC45LTAuMSwxLjMtMC4xLDMuNnMwLDIuNywwLjEsMy42YzAuMSwwLjksMC4yLDEuNiwwLjQsMi4xDQoJCQljMC4zLDAuNiwwLjUsMS4xLDEsMS41YzAuNSwwLjQsMSwwLjgsMS41LDFjMC42LDAuMywxLjIsMC4zLDIuMSwwLjRjMC45LDAuMSwxLjMsMC4xLDMuNiwwLjFzMi43LDAsMy42LTAuMQ0KCQkJYzAuOS0wLjEsMS42LTAuMiwyLjEtMC40YzAuNi0wLjMsMS4xLTAuNSwxLjUtMWMwLjUtMC41LDAuOC0xLDEtMS41YzAuMi0wLjYsMC4zLTEuMiwwLjQtMi4xYzAuMS0wLjksMC4xLTEuMywwLjEtMy42DQoJCQlTMjguNywxNy4zLDI4LjcsMTYuNHogTTIwLDI0LjRjLTIuNSwwLTQuNC0yLTQuNC00LjRzMi00LjQsNC40LTQuNHM0LjQsMiw0LjQsNC40UzIyLjUsMjQuNCwyMCwyNC40eiBNMjQuNywxNi40DQoJCQljLTAuNiwwLTEtMC41LTEtMWMwLTAuNSwwLjUtMSwxLTFjMC41LDAsMSwwLjUsMSwxQzI1LjcsMTUuOSwyNS4yLDE2LjQsMjQuNywxNi40eiIvPg0KCTwvZz4NCgk8cGF0aCBmaWxsPSIjQzI0OUJFIiBkPSJNMjAsNDBDOSw0MCwwLDMxLDAsMjBTOSwwLDIwLDBzMjAsOSwyMCwyMFMzMSw0MCwyMCw0MHogTTIwLDIuM2MtOS44LDAtMTcuOCw4LTE3LjgsMTcuOHM4LDE3LjgsMTcuOCwxNy44DQoJCVMzNy44LDI5LjgsMzcuOCwyMFMyOS44LDIuMywyMCwyLjN6Ii8+DQo8L2c+DQo8L3N2Zz4NCg==' ]
+[2019-01-16T11:40:54.877] [INFO] default - [ '2019-01-16T19:40:54.877Z',
+  '+',
+  6,
+  'data:image/svg+xml;base64,PHN2ZyBpZD0iTGF5ZXJfMSIgZGF0YS1uYW1lPSJMYXllciAxIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA0MCA0MCI+PGRlZnM+PHN0eWxlPi5jbHMtMXtmaWxsOnJlZDt9LmNscy0ye2ZpbGw6I2ZmZjt9PC9zdHlsZT48L2RlZnM+PHRpdGxlPnlvdXR1YmU8L3RpdGxlPjxwYXRoIGNsYXNzPSJjbHMtMSIgZD0iTTMwLjEyLDE0LjkxYTIuNjEsMi42MSwwLDAsMC0xLjg2LTEuODZDMjYuNjEsMTIuNiwyMCwxMi42LDIwLDEyLjZzLTYuNjEsMC04LjI2LjQ1YTIuNjEsMi42MSwwLDAsMC0xLjg2LDEuODZBMjcsMjcsMCwwLDAsOS40MywyMGEyNywyNywwLDAsMCwuNDUsNS4wOUEyLjYxLDIuNjEsMCwwLDAsMTEuNzQsMjdjMS42NS40NSw4LjI2LjQ1LDguMjYuNDVzNi42MSwwLDguMjYtLjQ1YTIuNjEsMi42MSwwLDAsMCwxLjg2LTEuODZBMjcsMjcsMCwwLDAsMzAuNTcsMjAsMjcsMjcsMCwwLDAsMzAuMTIsMTQuOTFaIiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgwIDApIi8+PHBvbHlnb24gY2xhc3M9ImNscy0yIiBwb2ludHM9IjE3Ljg5IDIzLjE3IDIzLjM4IDIwIDE3Ljg5IDE2LjgzIDE3Ljg5IDIzLjE3Ii8+PHBhdGggY2xhc3M9ImNscy0xIiBkPSJNMjAsNDBBMjAsMjAsMCwxLDEsNDAsMjAsMjAsMjAsMCwwLDEsMjAsNDBaTTIwLDIuMjZBMTcuNzQsMTcuNzQsMCwxLDAsMzcuNzQsMjAsMTcuNzYsMTcuNzYsMCwwLDAsMjAsMi4yNloiIHRyYW5zZm9ybT0idHJhbnNsYXRlKDAgMCkiLz48L3N2Zz4=' ]
+[2019-01-16T11:40:54.879] [INFO] default - [ '2019-01-16T19:40:54.879Z',
+  '-',
+  5,
+  'data:image/svg+xml;base64,PHN2ZyBpZD0iTGF5ZXJfMSIgZGF0YS1uYW1lPSJMYXllciAxIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA0MCA0MCI+PGRlZnM+PHN0eWxlPi5jbHMtMXtmaWxsOnJlZDt9LmNscy0ye2ZpbGw6I2ZmZjt9PC9zdHlsZT48L2RlZnM+PHRpdGxlPnlvdXR1YmU8L3RpdGxlPjxwYXRoIGNsYXNzPSJjbHMtMSIgZD0iTTMwLjEyLDE0LjkxYTIuNjEsMi42MSwwLDAsMC0xLjg2LTEuODZDMjYuNjEsMTIuNiwyMCwxMi42LDIwLDEyLjZzLTYuNjEsMC04LjI2LjQ1YTIuNjEsMi42MSwwLDAsMC0xLjg2LDEuODZBMjcsMjcsMCwwLDAsOS40MywyMGEyNywyNywwLDAsMCwuNDUsNS4wOUEyLjYxLDIuNjEsMCwwLDAsMTEuNzQsMjdjMS42NS40NSw4LjI2LjQ1LDguMjYuNDVzNi42MSwwLDguMjYtLjQ1YTIuNjEsMi42MSwwLDAsMCwxLjg2LTEuODZBMjcsMjcsMCwwLDAsMzAuNTcsMjAsMjcsMjcsMCwwLDAsMzAuMTIsMTQuOTFaIiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgwIDApIi8+PHBvbHlnb24gY2xhc3M9ImNscy0yIiBwb2ludHM9IjE3Ljg5IDIzLjE3IDIzLjM4IDIwIDE3Ljg5IDE2LjgzIDE3Ljg5IDIzLjE3Ii8+PHBhdGggY2xhc3M9ImNscy0xIiBkPSJNMjAsNDBBMjAsMjAsMCwxLDEsNDAsMjAsMjAsMjAsMCwwLDEsMjAsNDBaTTIwLDIuMjZBMTcuNzQsMTcuNzQsMCwxLDAsMzcuNzQsMjAsMTcuNzYsMTcuNzYsMCwwLDAsMjAsMi4yNloiIHRyYW5zZm9ybT0idHJhbnNsYXRlKDAgMCkiLz48L3N2Zz4=' ]
+[2019-01-16T11:40:54.881] [INFO] default - [ '2019-01-16T19:40:54.881Z',
+  '+',
+  6,
+  'https://gamefly.gameflycdn.com/shared/retail/images/nmhp/game-pile-desktop.jpg' ]
+[2019-01-16T11:40:54.882] [INFO] default - [ '2019-01-16T19:40:54.882Z',
+  '+',
+  7,
+  'https://gamefly.gameflycdn.com/shared/retail/images/nmhp/hero.jpg' ]
+[2019-01-16T11:40:54.883] [INFO] default - [ '2019-01-16T19:40:54.883Z',
+  '+',
+  8,
+  'https://www.gamefly.com/assets/images/splash/icon-how-it-works-devices.png' ]
+[2019-01-16T11:40:54.883] [INFO] default - [ '2019-01-16T19:40:54.883Z',
+  '+',
+  9,
+  'https://www.gamefly.com/assets/images/splash/icon-how-it-works-arrow.png' ]
+[2019-01-16T11:40:54.884] [INFO] default - [ '2019-01-16T19:40:54.884Z',
+  '+',
+  10,
+  'https://www.gamefly.com/assets/images/splash/icon-how-it-works-shipping.png' ]
+[2019-01-16T11:40:54.885] [INFO] default - [ '2019-01-16T19:40:54.885Z',
+  '+',
+  11,
+  'https://www.gamefly.com/assets/images/splash/icon-how-it-works-discs.png' ]
+[2019-01-16T11:40:54.886] [INFO] default - [ '2019-01-16T19:40:54.886Z',
+  '+',
+  12,
+  'https://www.gamefly.com/assets/images/splash/icon-learn-more.png' ]
+[2019-01-16T11:40:54.887] [INFO] default - [ '2019-01-16T19:40:54.887Z',
+  '+',
+  13,
+  'https://gwmtracking.com/p/v/1/57d1da44f870815eb0abb5aa/format/img' ]
+[2019-01-16T11:40:54.887] [INFO] default - [ '2019-01-16T19:40:54.887Z',
+  '+',
+  14,
+  'https://www.google-analytics.com/r/collect?v=1&_v=j72&a=1494604545&t=pageview&_s=1&dl=https%3A%2F%2Fwww.gamefly.com%2F&ul=en-us&de=UTF-8&dt=GameFly&sd=24-bit&sr=1440x718&vp=1440x718&je=0&_u=6GDAAEADQ~&jid=2111115587&gjid=1074121158&cid=34112195.1547667654&tid=UA-29434552-8&_gid=1541495743.1547667654&_r=1&gtm=2wgbc0PQ8KZ86&z=1969068868' ]
+[2019-01-16T11:40:54.888] [INFO] default - [ '2019-01-16T19:40:54.888Z',
+  '+',
+  15,
+  'https://gamefly.gameflycdn.com/assets/logo.png' ]
+[2019-01-16T11:40:54.889] [INFO] default - [ '2019-01-16T19:40:54.889Z',
+  '+',
+  16,
+  'https://gamefly.gameflycdn.com/assets/images/splash/icon-platform-ps4.png' ]
+[2019-01-16T11:40:54.889] [INFO] default - [ '2019-01-16T19:40:54.889Z',
+  '+',
+  17,
+  'https://gamefly.gameflycdn.com/assets/images/splash/icon-platform-xone.png' ]
+[2019-01-16T11:40:54.890] [INFO] default - [ '2019-01-16T19:40:54.890Z',
+  '+',
+  18,
+  'https://gamefly.gameflycdn.com/assets/images/splash/icon-platform-switch.png' ]
+[2019-01-16T11:40:54.891] [INFO] default - [ '2019-01-16T19:40:54.891Z',
+  '+',
+  19,
+  'https://gamefly.gameflycdn.com/assets/images/splash/icon-platform-ps3.png' ]
+[2019-01-16T11:40:54.892] [INFO] default - [ '2019-01-16T19:40:54.892Z',
+  '+',
+  20,
+  'https://gamefly.gameflycdn.com/assets/images/splash/icon-platform-x360.png' ]
+[2019-01-16T11:40:54.892] [INFO] default - [ '2019-01-16T19:40:54.892Z',
+  '+',
+  21,
+  'https://gamefly.gameflycdn.com/assets/images/splash/icon-platform-3ds.png' ]
+[2019-01-16T11:40:54.893] [INFO] default - [ '2019-01-16T19:40:54.893Z',
+  '+',
+  22,
+  'https://gamefly.gameflycdn.com/assets/images/splash/icon-platform-bluray.png' ]
+[2019-01-16T11:40:54.894] [INFO] default - [ '2019-01-16T19:40:54.894Z',
+  '+',
+  23,
+  'https://gamefly.gameflycdn.com/assets/images/splash/icon-platform-dvd.png' ]
+[2019-01-16T11:40:54.895] [INFO] default - [ '2019-01-16T19:40:54.895Z',
+  '-',
+  22,
+  'https://www.facebook.com/tr/?id=125585071118121&ev=PageView&dl=https%3A%2F%2Fwww.gamefly.com%2F&rl=&if=false&ts=1547667654623&sw=1440&sh=718&v=2.8.37&r=stable&ec=0&o=157&fbp=fb.1.1547667654619.2006551425&it=1547667654506&coo=false' ]
+[2019-01-16T11:40:54.904] [INFO] default - [ '2019-01-16T19:40:54.903Z',
+  '+',
+  23,
+  'data:image/svg+xml;base64,PHN2ZyBpZD0iTGF5ZXJfMSIgZGF0YS1uYW1lPSJMYXllciAxIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PGRlZnM+PHN0eWxlPi5jbHMtMXtmaWxsOm5vbmU7fTwvc3R5bGU+PC9kZWZzPjx0aXRsZT5iYXNlbGluZS1jYW5jZWwtMjRweC1ibGFjazwvdGl0bGU+PHBhdGggZD0iTTEyLDJBMTAsMTAsMCwxLDAsMjIsMTIsMTAsMTAsMCwwLDAsMTIsMlptNSwxMy42TDE1LjYsMTcsMTIsMTMuNCw4LjQsMTcsNywxNS42LDEwLjYsMTIsNyw4LjQsOC40LDcsMTIsMTAuNiwxNS42LDcsMTcsOC40LDEzLjQsMTJaIi8+PHBhdGggY2xhc3M9ImNscy0xIiBkPSJNMCwwSDI0VjI0SDBaIi8+PC9zdmc+' ]
+[2019-01-16T11:40:54.906] [INFO] default - [ '2019-01-16T19:40:54.906Z',
+  '-',
+  22,
+  'data:image/svg+xml;base64,PHN2ZyBpZD0iTGF5ZXJfMSIgZGF0YS1uYW1lPSJMYXllciAxIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PGRlZnM+PHN0eWxlPi5jbHMtMXtmaWxsOm5vbmU7fTwvc3R5bGU+PC9kZWZzPjx0aXRsZT5iYXNlbGluZS1jYW5jZWwtMjRweC1ibGFjazwvdGl0bGU+PHBhdGggZD0iTTEyLDJBMTAsMTAsMCwxLDAsMjIsMTIsMTAsMTAsMCwwLDAsMTIsMlptNSwxMy42TDE1LjYsMTcsMTIsMTMuNCw4LjQsMTcsNywxNS42LDEwLjYsMTIsNyw4LjQsOC40LDcsMTIsMTAuNiwxNS42LDcsMTcsOC40LDEzLjQsMTJaIi8+PHBhdGggY2xhc3M9ImNscy0xIiBkPSJNMCwwSDI0VjI0SDBaIi8+PC9zdmc+' ]
+[2019-01-16T11:40:54.910] [INFO] default - [ '2019-01-16T19:40:54.910Z',
+  '-',
+  21,
+  'https://www.google-analytics.com/analytics.js' ]
+[2019-01-16T11:40:54.911] [INFO] default - [ '2019-01-16T19:40:54.911Z',
+  '-',
+  20,
+  'https://gamefly.gameflycdn.com/10.4e5a8da418e33fdb9d43.js' ]
+[2019-01-16T11:40:54.912] [INFO] default - [ '2019-01-16T19:40:54.912Z',
+  '-',
+  19,
+  'https://gamefly.gameflycdn.com/13.cc11fee8e408e9d363c3.js' ]
+[2019-01-16T11:40:54.914] [INFO] default - [ '2019-01-16T19:40:54.914Z',
+  '-',
+  18,
+  'https://gamefly.gameflycdn.com/shared/retail/images/nmhp/hero.jpg' ]
+[2019-01-16T11:40:54.916] [INFO] default - [ '2019-01-16T19:40:54.916Z',
+  '-',
+  17,
+  'https://gamefly.gameflycdn.com/shared/retail/images/nmhp/game-pile-desktop.jpg' ]
+[2019-01-16T11:40:54.947] [INFO] default - [ '2019-01-16T19:40:54.947Z',
+  '-',
+  16,
+  'https://www.gamefly.com/assets/images/splash/icon-how-it-works-devices.png' ]
+[2019-01-16T11:40:54.950] [INFO] default - [ '2019-01-16T19:40:54.950Z',
+  '+',
+  17,
+  'https://stats.g.doubleclick.net/r/collect?v=1&aip=1&t=dc&_r=3&tid=UA-29434552-8&cid=34112195.1547667654&jid=2111115587&_gid=1541495743.1547667654&gjid=1074121158&_v=j72&z=1969068868' ]
+[2019-01-16T11:40:54.951] [INFO] default - [ '2019-01-16T19:40:54.951Z',
+  '-',
+  15,
+  'https://gamefly.gameflycdn.com/assets/images/splash/icon-platform-ps3.png' ]
+[2019-01-16T11:40:54.952] [INFO] default - [ '2019-01-16T19:40:54.952Z',
+  '-',
+  14,
+  'https://gamefly.gameflycdn.com/assets/images/splash/icon-platform-xone.png' ]
+[2019-01-16T11:40:55.003] [INFO] default - [ '2019-01-16T19:40:55.003Z',
+  '-',
+  13,
+  'https://gamefly.gameflycdn.com/assets/images/splash/icon-platform-x360.png' ]
+[2019-01-16T11:40:55.005] [INFO] default - [ '2019-01-16T19:40:55.005Z',
+  '-',
+  12,
+  'https://gamefly.gameflycdn.com/assets/images/splash/icon-platform-bluray.png' ]
+[2019-01-16T11:40:55.006] [INFO] default - [ '2019-01-16T19:40:55.006Z',
+  '-',
+  11,
+  'https://gamefly.gameflycdn.com/assets/images/splash/icon-platform-ps4.png' ]
+[2019-01-16T11:40:55.009] [INFO] default - [ '2019-01-16T19:40:55.009Z',
+  '-',
+  10,
+  'https://gamefly.gameflycdn.com/assets/images/splash/icon-platform-switch.png' ]
+[2019-01-16T11:40:55.048] [INFO] default - [ '2019-01-16T19:40:55.048Z',
+  '-',
+  9,
+  'https://gamefly.gameflycdn.com/assets/logo.png' ]
+[2019-01-16T11:40:55.050] [INFO] default - [ '2019-01-16T19:40:55.050Z',
+  '-',
+  8,
+  'https://www.gamefly.com/assets/images/splash/icon-how-it-works-shipping.png' ]
+[2019-01-16T11:40:55.055] [INFO] default - [ '2019-01-16T19:40:55.055Z',
+  '-',
+  7,
+  'https://gamefly.gameflycdn.com/assets/images/splash/icon-platform-3ds.png' ]
+[2019-01-16T11:40:55.056] [INFO] default - [ '2019-01-16T19:40:55.056Z',
+  '-',
+  6,
+  'https://gamefly.gameflycdn.com/assets/images/splash/icon-platform-dvd.png' ]
+[2019-01-16T11:40:55.059] [INFO] default - [ '2019-01-16T19:40:55.058Z',
+  '+',
+  7,
+  'https://ad.doubleclick.net/ddm/activity/src=6039122;type=invmedia;cat=cbndwjpb;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;ord=1?' ]
+[2019-01-16T11:40:55.100] [INFO] default - [ '2019-01-16T19:40:55.100Z',
+  '-',
+  5,
+  'https://www.gamefly.com/assets/images/splash/icon-how-it-works-arrow.png' ]
+[2019-01-16T11:40:55.101] [INFO] default - [ '2019-01-16T19:40:55.101Z',
+  '-',
+  4,
+  'https://www.gamefly.com/assets/images/splash/icon-how-it-works-discs.png' ]
+[2019-01-16T11:40:55.124] [INFO] default - [ '2019-01-16T19:40:55.124Z',
+  '+',
+  5,
+  'https://www.google.com/ads/ga-audiences?v=1&aip=1&t=sr&_r=4&tid=UA-29434552-8&cid=34112195.1547667654&jid=2111115587&_v=j72&z=1969068868' ]
+[2019-01-16T11:40:55.127] [INFO] default - [ '2019-01-16T19:40:55.127Z',
+  '-',
+  3,
+  'https://www.gamefly.com/assets/images/splash/icon-learn-more.png' ]
+[2019-01-16T11:40:55.158] [INFO] default - [ '2019-01-16T19:40:55.158Z',
+  '-',
+  2,
+  'https://seal-sanjose.bbb.org/logo/ruhzbus/iframe/gamefly-13183849.html?newwindow=yes' ]
+[2019-01-16T11:40:55.163] [INFO] default - [ '2019-01-16T19:40:55.163Z',
+  '+',
+  3,
+  'https://seal-sanjose.bbb.org/logo/ruhzbus/gamefly-13183849.png' ]
+[2019-01-16T11:40:55.163] [INFO] default - [ '2019-01-16T19:40:55.163Z',
+  '+',
+  4,
+  'https://seal-sanjose.bbb.org/logo/gamefly-13183849.js' ]
+[2019-01-16T11:40:55.213] [INFO] default - [ '2019-01-16T19:40:55.213Z',
+  '-',
+  3,
+  'https://www.google.com/ads/ga-audiences?v=1&aip=1&t=sr&_r=4&tid=UA-29434552-8&cid=34112195.1547667654&jid=2111115587&_v=j72&z=1969068868' ]
+[2019-01-16T11:40:55.237] [INFO] default - [ '2019-01-16T19:40:55.237Z',
+  '-',
+  2,
+  'https://seal-sanjose.bbb.org/logo/gamefly-13183849.js' ]
+[2019-01-16T11:40:55.238] [INFO] default - [ '2019-01-16T19:40:55.238Z',
+  '-',
+  1,
+  'https://seal-sanjose.bbb.org/logo/ruhzbus/gamefly-13183849.png' ]
+[2019-01-16T11:40:55.240] [INFO] default - [ '2019-01-16T19:40:55.240Z',
+  '+',
+  2,
+  'https://seal-sanjose.bbb.org/logo/2-gamefly-13183849.css' ]
+[2019-01-16T11:40:55.267] [INFO] default - [ '2019-01-16T19:40:55.267Z',
+  '+',
+  3,
+  'https://ad.doubleclick.net/ddm/activity/src=6039122;dc_pre=CLqVjaaH898CFchvvAodhx8Nkg;type=invmedia;cat=cbndwjpb;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;ord=1?' ]
+[2019-01-16T11:40:55.311] [INFO] default - [ '2019-01-16T19:40:55.311Z',
+  '-',
+  1,
+  'https://seal-sanjose.bbb.org/logo/2-gamefly-13183849.css' ]
+[2019-01-16T11:40:55.338] [INFO] default - [ '2019-01-16T19:40:55.337Z',
+  '+',
+  2,
+  'https://apis.google.com/_/scs/apps-static/_/js/k=oz.gapi.en_US.vv_EZJdsG10.O/m=auth2/rt=j/sv=1/d=1/ed=1/am=wQ/rs=AGLTcCPxDhM2yhPSBMSu35TUiyhsP4jEfA/cb=gapi.loaded_0' ]
+[2019-01-16T11:40:55.353] [INFO] default - [ '2019-01-16T19:40:55.353Z',
+  '-',
+  1,
+  'https://apis.google.com/_/scs/apps-static/_/js/k=oz.gapi.en_US.vv_EZJdsG10.O/m=auth2/rt=j/sv=1/d=1/ed=1/am=wQ/rs=AGLTcCPxDhM2yhPSBMSu35TUiyhsP4jEfA/cb=gapi.loaded_0' ]
+[2019-01-16T11:40:55.378] [INFO] default - [ '2019-01-16T19:40:55.378Z',
+  '+',
+  2,
+  'https://accounts.google.com/o/oauth2/iframe' ]
+[2019-01-16T11:40:55.420] [INFO] default - [ '2019-01-16T19:40:55.420Z',
+  '+',
+  3,
+  'https://adservice.google.com/ddm/fls/z/src=6039122;dc_pre=CLqVjaaH898CFchvvAodhx8Nkg;type=invmedia;cat=cbndwjpb;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;ord=1' ]
+[2019-01-16T11:40:55.480] [INFO] default - [ '2019-01-16T19:40:55.480Z',
+  '-',
+  1,
+  'https://accounts.google.com/o/oauth2/iframe' ]
+[2019-01-16T11:40:55.485] [INFO] default - [ '2019-01-16T19:40:55.485Z',
+  '+',
+  2,
+  'https://ssl.gstatic.com/accounts/o/749446591-idpiframe_css_ltr.css' ]
+[2019-01-16T11:40:55.486] [INFO] default - [ '2019-01-16T19:40:55.486Z',
+  '+',
+  3,
+  'https://ssl.gstatic.com/accounts/o/1362406667-v2-idpiframe.js' ]
+[2019-01-16T11:40:55.550] [INFO] default - [ '2019-01-16T19:40:55.550Z',
+  '-',
+  2,
+  'https://ssl.gstatic.com/accounts/o/1362406667-v2-idpiframe.js' ]
+[2019-01-16T11:40:55.551] [INFO] default - [ '2019-01-16T19:40:55.551Z',
+  '-',
+  1,
+  'https://ssl.gstatic.com/accounts/o/749446591-idpiframe_css_ltr.css' ]
+[2019-01-16T11:40:55.567] [INFO] default - [ '2019-01-16T19:40:55.567Z',
+  '+',
+  2,
+  'https://accounts.google.com/o/oauth2/iframerpc?action=checkOrigin&origin=https%3A%2F%2Fwww.gamefly.com&client_id=916087388996-2cptdq7jm3l8v7dau45vn15hh5hutjqg.apps.googleusercontent.com' ]
+[2019-01-16T11:40:55.652] [INFO] default - [ '2019-01-16T19:40:55.652Z',
+  '-',
+  1,
+  'https://adservice.google.com/ddm/fls/z/src=6039122;dc_pre=CLqVjaaH898CFchvvAodhx8Nkg;type=invmedia;cat=cbndwjpb;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;ord=1' ]
+[2019-01-16T11:40:55.666] [INFO] default - [ '2019-01-16T19:40:55.666Z',
+  '+',
+  2,
+  'https://tags.w55c.net/rs?id=94314baf0d2743d6877cdaa045725658&t=marketing' ]
+[2019-01-16T11:40:55.671] [INFO] default - [ '2019-01-16T19:40:55.671Z',
+  '-',
+  1,
+  'https://accounts.google.com/o/oauth2/iframerpc?action=checkOrigin&origin=https%3A%2F%2Fwww.gamefly.com&client_id=916087388996-2cptdq7jm3l8v7dau45vn15hh5hutjqg.apps.googleusercontent.com' ]
+[2019-01-16T11:40:55.677] [INFO] default - [ '2019-01-16T19:40:55.677Z',
+  '+',
+  2,
+  'https://usage.trackjs.com/usage.gif?token=f10ed8fb833a4757ba64825eb1f80c39&correlationId=bd0350f1-0507-4c8d-a773-dc0f399f16ac&application=resp&x=c77bfaac-df3b-424b-b551-78dd9ca96cd6&' ]
+[2019-01-16T11:40:55.812] [INFO] default - [ '2019-01-16T19:40:55.812Z',
+  '+',
+  3,
+  'https://cm.g.doubleclick.net/pixel?google_nid=9675309&google_hm=RFAyc1RKVFUxR0pSM3cy&google_cm&google_sc' ]
+[2019-01-16T11:40:55.929] [INFO] default - [ '2019-01-16T19:40:55.929Z',
+  '+',
+  3,
+  'https://tags.w55c.net/match-result?id=8bb138bc0446417c9a4df9a0136d0caf8a93328592bf4d059bfc856c256fbc33&ei=GOOGLE&euid=&google_gid=CAESEMGl4X4SU0DMbgKpEbU1df4&google_cver=1' ]
+[2019-01-16T11:40:55.954] [INFO] default - [ '2019-01-16T19:40:55.954Z',
+  '-',
+  1,
+  'https://tags.w55c.net/match-result?id=8bb138bc0446417c9a4df9a0136d0caf8a93328592bf4d059bfc856c256fbc33&ei=GOOGLE&euid=&google_gid=CAESEMGl4X4SU0DMbgKpEbU1df4&google_cver=1' ]
+[2019-01-16T11:40:56.081] [INFO] default - [ '2019-01-16T19:40:56.081Z',
+  '-',
+  0,
+  'https://usage.trackjs.com/usage.gif?token=f10ed8fb833a4757ba64825eb1f80c39&correlationId=bd0350f1-0507-4c8d-a773-dc0f399f16ac&application=resp&x=c77bfaac-df3b-424b-b551-78dd9ca96cd6&' ]
+[2019-01-16T11:40:57.001] [INFO] default - [ '2019-01-16T19:40:57.001Z',
+  'finish --> time passed since last restart 18526' ]
+[2019-01-16T11:40:57.020] [INFO] default - [ '2019-01-16T19:40:57.020Z',
+  'got',
+  200,
+  'in',
+  '3814ms',
+  'for',
+  'https://www.gamefly.com/' ]
+[2019-01-16T11:40:57.079] [INFO] default - [ '2019-01-16T19:40:57.079Z',
+  'getting',
+  'assets/images/splash/icon-learn-more.png' ]
+[2019-01-16T11:40:57.080] [INFO] default - [ '2019-01-16T19:40:57.080Z',
+  'invalid URL:',
+  'assets/images/splash/icon-learn-more.png' ]
+[2019-01-16T11:40:57.083] [INFO] default - [ '2019-01-16T19:40:57.083Z',
+  'finish --> time passed since last restart 18607' ]
+[2019-01-16T11:40:57.085] [INFO] default - [ '2019-01-16T19:40:57.085Z',
+  'got',
+  400,
+  'in',
+  '6ms',
+  'for',
+  'assets/images/splash/icon-learn-more.png' ]
+[2019-01-16T11:40:57.306] [INFO] default - [ '2019-01-16T19:40:57.305Z',
+  'getting',
+  'assets/images/splash/icon-how-it-works-devices.png' ]
+[2019-01-16T11:40:57.306] [INFO] default - [ '2019-01-16T19:40:57.306Z',
+  'invalid URL:',
+  'assets/images/splash/icon-how-it-works-devices.png' ]
+[2019-01-16T11:40:57.307] [INFO] default - [ '2019-01-16T19:40:57.307Z',
+  'finish --> time passed since last restart 18832' ]
+[2019-01-16T11:40:57.308] [INFO] default - [ '2019-01-16T19:40:57.308Z',
+  'got',
+  400,
+  'in',
+  '3ms',
+  'for',
+  'assets/images/splash/icon-how-it-works-devices.png' ]
+[2019-01-16T11:40:57.309] [INFO] default - [ '2019-01-16T19:40:57.309Z',
+  'getting',
+  'assets/images/splash/icon-how-it-works-arrow.png' ]
+[2019-01-16T11:40:57.310] [INFO] default - [ '2019-01-16T19:40:57.310Z',
+  'invalid URL:',
+  'assets/images/splash/icon-how-it-works-arrow.png' ]
+[2019-01-16T11:40:57.310] [INFO] default - [ '2019-01-16T19:40:57.310Z',
+  'finish --> time passed since last restart 18835' ]
+[2019-01-16T11:40:57.311] [INFO] default - [ '2019-01-16T19:40:57.311Z',
+  'got',
+  400,
+  'in',
+  '2ms',
+  'for',
+  'assets/images/splash/icon-how-it-works-arrow.png' ]
+[2019-01-16T11:40:57.312] [INFO] default - [ '2019-01-16T19:40:57.311Z',
+  'getting',
+  'assets/images/splash/icon-how-it-works-shipping.png' ]
+[2019-01-16T11:40:57.312] [INFO] default - [ '2019-01-16T19:40:57.312Z',
+  'invalid URL:',
+  'assets/images/splash/icon-how-it-works-shipping.png' ]
+[2019-01-16T11:40:57.312] [INFO] default - [ '2019-01-16T19:40:57.312Z',
+  'finish --> time passed since last restart 18837' ]
+[2019-01-16T11:40:57.313] [INFO] default - [ '2019-01-16T19:40:57.313Z',
+  'got',
+  400,
+  'in',
+  '2ms',
+  'for',
+  'assets/images/splash/icon-how-it-works-shipping.png' ]
+[2019-01-16T11:40:57.314] [INFO] default - [ '2019-01-16T19:40:57.314Z',
+  'getting',
+  'assets/images/splash/icon-how-it-works-discs.png' ]
+[2019-01-16T11:40:57.315] [INFO] default - [ '2019-01-16T19:40:57.315Z',
+  'invalid URL:',
+  'assets/images/splash/icon-how-it-works-discs.png' ]
+[2019-01-16T11:40:57.315] [INFO] default - [ '2019-01-16T19:40:57.315Z',
+  'finish --> time passed since last restart 18840' ]
+[2019-01-16T11:40:57.316] [INFO] default - [ '2019-01-16T19:40:57.316Z',
+  'got',
+  400,
+  'in',
+  '2ms',
+  'for',
+  'assets/images/splash/icon-how-it-works-discs.png' ]
+[2019-01-16T11:40:58.837] [INFO] default - [ '2019-01-16T19:40:58.837Z', 'getting', 'favicon.ico' ]
+[2019-01-16T11:40:58.838] [INFO] default - [ '2019-01-16T19:40:58.838Z', 'invalid URL:', 'favicon.ico' ]
+[2019-01-16T11:40:58.839] [INFO] default - [ '2019-01-16T19:40:58.839Z',
+  'finish --> time passed since last restart 20364' ]
+[2019-01-16T11:40:58.840] [INFO] default - [ '2019-01-16T19:40:58.840Z',
+  'got',
+  400,
+  'in',
+  '3ms',
+  'for',
+  'favicon.ico' ]
+[2019-01-16T11:41:03.439] [INFO] default - [ '2019-01-16T19:41:03.439Z', 'Stopping Chrome' ]
+[2019-01-16T11:41:03.469] [INFO] default - [ '2019-01-16T19:41:03.469Z', 'Stopped Chrome' ]
+[2019-01-16T11:41:03.939] [INFO] default - [ '2019-01-16T19:41:03.939Z', 'Stopping Prerender' ]
