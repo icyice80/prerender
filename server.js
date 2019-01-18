@@ -12,8 +12,8 @@ server.use(prerender.sendPrerenderHeader());
 server.use(prerender.healthCheck());
 // server.use(prerender.blockResources());
 server.use(prerender.removeScriptTags());
-server.use(prerender.httpHeaders());
 server.use(prerender.responsiveView());
+server.use(prerender.httpHeaders());
 
 if (process.env.REDIS_URL) {
     server.use(prerender.redisCache());

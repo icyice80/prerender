@@ -4,4 +4,4 @@ node_modules/
 .elasticbeanstalk/
 .ebextensions/
 .idea/
-.logs/
+logs/
