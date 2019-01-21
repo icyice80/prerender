@@ -3,7 +3,7 @@
 const prerender = require('./lib');
 
 const options = {
-    logRequests: process.env.NODE_ENV !== "production" ? true : false
+    logRequests: true
 };
 
 const server = prerender(options);
@@ -13,6 +13,7 @@ server.use(prerender.healthCheck());
 // server.use(prerender.blockResources());
 server.use(prerender.removeScriptTags());
 server.use(prerender.responsiveView());
+server.use(prerender.logHeaders());
 server.use(prerender.httpHeaders());
 
 if (process.env.REDIS_URL) {
