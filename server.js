@@ -3,14 +3,14 @@
 const prerender = require('./lib');
 
 const options = {
-    logRequests: true
+    logRequests: process.env.NODE_ENV !== "production" ? true : false
 };
 
 const server = prerender(options);
 
 server.use(prerender.sendPrerenderHeader());
 server.use(prerender.healthCheck());
-// server.use(prerender.blockResources());
+server.use(prerender.blockResources());
 server.use(prerender.removeScriptTags());
 server.use(prerender.responsiveView());
 server.use(prerender.logHeaders());
